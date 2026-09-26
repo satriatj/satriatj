@@ -23,5 +23,5 @@ across hundreds of external data sources.
 
 ---
 [LinkedIn](https://www.linkedin.com/in/satria-tjiaman/)
-[Resume]
+[Resume](./Satria_Tjiaman_Resume.pdf)
 [Email](satria.tjiaman@gmail.com)
