@@ -1,6 +1,6 @@
 # Satria Tjiaman
 
-CS @ Cornell University. I like building backend infrastructure,
+CS + Math @ Cornell University. I like building backend infrastructure,
 AI systems, and products that people actually use.
 
 Currently interested in:
@@ -21,3 +21,7 @@ across hundreds of external data sources.
 **DormHop** — Cornell room-swap marketplace  
 🏆 #1 Best Overall App — Cornell AppDev Hack Challenge 2025
 
+---
+[LinkedIn](https://www.linkedin.com/in/satria-tjiaman/)
+[Resume]
+[Email](satria.tjiaman@gmail.com)
