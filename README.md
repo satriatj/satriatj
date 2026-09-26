@@ -1,16 +1,23 @@
-## Hi there 👋
+# Satria Tjiaman
 
-<!--
-**satriatj/satriatj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS @ Cornell University. I like building backend infrastructure,
+AI systems, and products that people actually use.
 
-Here are some ideas to get you started:
+Currently interested in:
+- Backend & distributed systems
+- Applied AI / ML
+- Developer infrastructure
+- Android
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Selected work
+
+**CompactLegal** — AI orchestration for legal workflows  
+Multi-agent workflows, approval gates, RAG, Gmail/Clio integrations.
+
+**Simulacrum Data Infrastructure**  
+Built ingestion infrastructure processing 10M+ time-series observations/month
+across hundreds of external data sources.
+
+**DormHop** — Cornell room-swap marketplace  
+🏆 #1 Best Overall App — Cornell AppDev Hack Challenge 2025
+
